@@ -51,7 +51,7 @@ BookMyRooms/
 1. Clone the repository:
 
 ```id="bkmr2"
-git clone https://github.com/your-username/BookMyRooms.git
+https://github.com/suvedant/BookMyRooms-Lodge-Management-System.git
 ```
 
 2. Move the project to XAMPP htdocs folder:
